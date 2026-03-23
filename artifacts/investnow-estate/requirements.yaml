@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For smooth scroll-triggered animations and entry effects"
+
+images:
+  - path: "artifacts/investnow-estate/public/images/hero-bg.png"
+    description: "Ultra luxury modern real estate twilight exterior or interior, panoramic view, high-end architecture, deep blues and warm golden interior lights, cinematic lighting"
+    aspect_ratio: "16:9"
+  - path: "artifacts/investnow-estate/public/images/about-img.png"
+    description: "Abstract architectural detail of a premium modern building with glass and steel, elegant composition, luxury real estate concept"
+    aspect_ratio: "4:3"
+  - path: "artifacts/investnow-estate/public/images/mihir-gaba.png"
+    description: "Professional, confident corporate headshot of a modern real estate consultant/founder in a sharp suit, warm natural lighting, blurred high-end office background"
+    aspect_ratio: "1:1"
+
+notes:
+  - Frontend-only static site. No backend APIs required.
+  - Using Framer Motion for scroll animations.
+  - Custom elegant font pairing (Outfit for display, DM Sans for body).

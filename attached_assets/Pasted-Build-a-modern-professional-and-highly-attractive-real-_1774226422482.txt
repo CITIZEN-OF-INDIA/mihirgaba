@@ -1,0 +1,170 @@
+Build a modern, professional, and highly attractive real estate website using React + TypeScript (frontend only, NO backend).
+
+Project Name: InvestNow Estate
+
+IMPORTANT REQUIREMENTS:
+- Frontend ONLY (no backend, no database, no authentication)
+- Fully mobile responsive (mobile-first design)
+- SEO optimized (2026 standards)
+- Fast loading, clean code, production-ready UI
+- Use modern UI/UX trends (glassmorphism, gradients, subtle animations)
+- Use Tailwind CSS for styling
+- Use reusable components and proper folder structure
+
+-----------------------------------
+
+🌐 WEBSITE STRUCTURE
+
+1. HOME PAGE
+- Hero section:
+  Title: "InvestNow Estate"
+  Subtitle: "Your Trusted Property Advisor in Gurugram"
+  Description: Led by Mihir Gaba, we specialize in buying, selling, and leasing premium properties
+  CTA Buttons:
+    - "Explore Properties"
+    - "Contact Us"
+
+- Highlight services:
+  - Residential Properties
+  - Commercial Spaces
+  - Investment Opportunities
+
+- Add trust badges:
+  - Verified Deals
+  - Transparency
+  - Expert Guidance
+
+-----------------------------------
+
+2. ABOUT SECTION
+- Title: "About InvestNow Estate"
+- Description:
+  A professional real estate consultancy based in Gurugram led by Mihir Gaba
+- Core values:
+  - Transparency
+  - Trust
+  - Long-term relationships
+
+- Add a clean card layout for values
+
+-----------------------------------
+
+3. SERVICES SECTION
+Create cards with icons:
+
+A. Residential Properties
+- Plots
+- Flats / Apartments
+- Builder Floors
+
+B. Commercial & Institutional Deals
+- Schools
+- Hospitals
+- Guest Houses
+- PG Accommodations
+
+C. Investment Advisory
+- High-return investments
+- Land banking
+- Rental yield properties
+
+D. Buy | Sell | Lease
+- Property Buying
+- Selling
+- Leasing & Rentals
+
+-----------------------------------
+
+4. WHY CHOOSE US
+Use checklist UI:
+- Strong Local Expertise in Gurugram
+- Verified Property Deals
+- End-to-End Assistance
+- Personalized Investment Advice
+- Transparent Transactions
+
+-----------------------------------
+
+5. AREAS WE SERVE
+Display in grid or map-style UI:
+- Nirvana Country
+- Golf Course Road
+- Sohna Road
+- New Gurgaon
+- Dwarka Expressway
+
+-----------------------------------
+
+6. TEAM SECTION
+- Highlight:
+  "Led by Mihir Gaba"
+- Add placeholder image/avatar
+- Description about experienced team and vision
+
+-----------------------------------
+
+7. CONTACT SECTION
+- Address:
+  NS10, Espace, Nirvana Country, Gurugram (Haryana)
+- Phone: 8929800801
+- Email: mihirgaba19@gmail.com
+
+- Add:
+  - Clickable call button
+  - Email button
+  - Embedded Google Maps placeholder (iframe)
+
+-----------------------------------
+
+🎨 DESIGN REQUIREMENTS
+- Modern 2026 UI style
+- Smooth animations (Framer Motion)
+- Soft shadows + rounded corners
+- Gradient backgrounds
+- Clean typography (Inter or Poppins)
+- Dark + light mode toggle
+
+-----------------------------------
+
+📈 SEO OPTIMIZATION
+- Use semantic HTML tags
+- Add meta tags:
+  title, description, keywords
+- Optimize headings (H1, H2, H3 properly)
+- Add alt text to images
+- Fast performance (lazy loading)
+
+-----------------------------------
+
+⚙️ TECH STACK
+- React + TypeScript
+- Tailwind CSS
+- Framer Motion (animations)
+- React Icons
+
+-----------------------------------
+
+📁 COMPONENT STRUCTURE
+- Navbar
+- HeroSection
+- AboutSection
+- ServicesSection
+- WhyChooseUs
+- AreasSection
+- TeamSection
+- ContactSection
+- Footer
+
+-----------------------------------
+
+✨ EXTRA FEATURES
+- Sticky navbar
+- Smooth scrolling
+- Scroll animations
+- CTA buttons throughout
+- Professional footer with quick links
+
+-----------------------------------
+
+OUTPUT:
+Generate complete working frontend code with clean structure, ready to run in Replit.
