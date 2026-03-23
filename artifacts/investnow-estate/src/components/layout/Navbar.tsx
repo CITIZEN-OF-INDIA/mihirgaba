@@ -40,8 +40,11 @@ export function Navbar() {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           <a href="#home" className="flex items-center gap-2 group">
-            <span className="text-2xl font-display font-bold tracking-tight text-foreground transition-colors group-hover:text-primary">
-              Invest<span className="text-primary">Now</span> Estate
+            <span className={cn(
+              "text-2xl font-display font-bold tracking-tight transition-colors group-hover:text-primary",
+              isScrolled ? "text-foreground" : "text-white md:text-white"
+            )}>
+              <span className={cn("transition-colors", isScrolled ? "text-blue-600" : "text-amber-400")}>Invest</span><span className="text-primary">Now</span> <span className={cn("transition-colors", isScrolled ? "text-blue-600" : "text-amber-400")}>Estate</span>
             </span>
           </a>
 
